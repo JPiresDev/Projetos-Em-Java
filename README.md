@@ -1,2 +1,2 @@
 # Projetos-Em-Java
-Alguns dos meu exercícios em java, java POO, do curso em video.
+Alguns dos meu projetos em **Java**, **Java POO**, do curso em video.
